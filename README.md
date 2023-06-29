@@ -14,9 +14,9 @@ Please use this program only on secure and appropriate environments, as oxon can
 
 ## Example Usage
 
-'''
+"""
 ./oxon example.com 80
-'''
+"""
 
 
 oxon will start the attack on the host example.com at port 80.
