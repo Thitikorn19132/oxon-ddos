@@ -1,6 +1,6 @@
 # OXON
 
-oxon is a program developed for educational purposes to learn about Denial of Service (DoS) attacks and related socket connection functions in the C language.
+OXON is a program developed for educational purposes to learn about Denial of Service (DoS) attacks and related socket connection functions in the C language.
 
 ## Disclaimer
 
