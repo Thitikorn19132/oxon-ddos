@@ -10,13 +10,11 @@ Please use this program only on secure and appropriate environments, as oxon can
 
 1. Install the oxon program on your machine.
 2. Open scanning and analysis tools to determine the desired attack method.
-3. Use the command `oxon <host> <port>` to initiate the attack, where `<host>` is the target host's name or IP address and `<port>` is the target's port number.
+3. Use the command `./oxon <host> <port>` to initiate the attack, where `<host>` is the target host's name or IP address and `<port>` is the target's port number.
 
 ## Example Usage
 
-"""
-./oxon example.com 80
-"""
+`./oxon example.com 80`
 
 
 oxon will start the attack on the host example.com at port 80.
