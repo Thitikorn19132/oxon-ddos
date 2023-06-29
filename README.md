@@ -33,4 +33,4 @@ The oxon program contains files related to DoS attacks, which can cause harm to 
 
 ## License
 
-oxon is released under the [MIT License](link-to-license-file).
+oxon is released under the [MIT License](https://github.com/Thitikorn19132/oxon-ddos/blob/main/LICENSE).
